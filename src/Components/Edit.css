@@ -1,0 +1,111 @@
+
+.edit-container {
+  width: 600px;
+  height: 600px;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: left;
+  text-align: left;
+
+
+  background-color: white;
+  border: 1px solid black;
+  border-radius: 10px;
+}
+
+.edit-header {
+  height: 400px;
+  width: 600px;
+  display: flex;
+  flex-direction: row;
+  align-items: left;
+  justify-content: left;
+  color: white;
+  background-color: var(--color-primary)
+}
+
+.edit-subheader {
+  height: 30px;
+  width: 600px;
+  background-color:#1769aa;
+  color: white;
+  display: flex;
+  align-items: center;
+
+
+}
+
+.edit-subheader #subheader-text {
+  color: white;
+  font-size: 14px;
+  font-weight: 400;
+  text-transform: full-width;
+  padding-left: 15px;
+  text-align: left;
+}
+
+.edit-operations {
+  width: 400px;
+  height: 800px;
+  display: flex;
+  flex-direction: column;
+  align-items: left;
+  justify-content: center;
+  padding: 2rem;
+  gap: 1rem;
+
+}
+
+
+.edit-buttons {
+  height: 100px;
+  width: 100%;
+  display: flex;
+  align-items: flex-end;
+  justify-content: right;
+  padding: 1rem;
+}
+
+#simple-select {
+  width: 200px;
+}
+
+#col {
+  display: flex;
+  flex-direction: column;
+  align-items: left;
+  justify-content: left;
+  padding: 2rem;
+
+}
+
+#col2 {
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  align-items: baseline;
+  justify-content: flex-end;
+  padding: 1.5rem;
+
+}
+
+#display-id {
+  font-size: 12px;
+}
+
+#display-name {
+  font-size: 32px;
+}
+
+#display-section {
+  font-size: 18px;
+}
+
+#display-price {
+  font-size: 20px;
+}
+
+#display-quantity {
+  font-size: 18px;
+}
