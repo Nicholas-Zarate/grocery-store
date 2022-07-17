@@ -38,7 +38,7 @@ export default function Edit(props) {
 
 
 //Handle selection edit
-  const handleChange = (event: SelectChangeEvent) => {
+  const handleChange = (event) => {
     setSectionEdit(event.target.value);
   };
 

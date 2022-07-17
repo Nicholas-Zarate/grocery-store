@@ -63,7 +63,7 @@ function Main() {
   }
 
   //Selection clicked handler
-  const handleChange = (event: SelectChangeEvent) => {
+  const handleChange = (event) => {
     setSection(event.target.value);
   };
 
