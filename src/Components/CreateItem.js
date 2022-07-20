@@ -81,7 +81,7 @@ export default function CreateItem(props) {
           color="error"
           startIcon={<CancelIcon />}
           onClick={() => {
-            props.handleDropdown();
+            props.handleClose();
           }}
         ></Button>
       </div>

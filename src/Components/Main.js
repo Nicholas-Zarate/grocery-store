@@ -96,7 +96,6 @@ function Main() {
                 Create New Item
               </button>
               <div id="myDropdown" class="dropdown-content">
-                {/*---Iteam creation---*/}
                 <CreateItem
                   handleClose={handleDropdown}
                   dbUrl={dbUrl}
