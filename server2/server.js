@@ -4,7 +4,7 @@ const express = require("express");
 const mongoose = require("mongoose");
 const cors = require("cors");
 const app = express();
-app.use(cors());
+app.use(cors({origin: *}));
 
 mongoose.connect(process.env.MDB_URL, { useNewUrlParser: true });
 const db = mongoose.connection;
