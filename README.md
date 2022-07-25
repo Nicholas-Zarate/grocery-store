@@ -1,4 +1,6 @@
 <div>
+
+<img align="center" src="https://user-images.githubusercontent.com/60954472/180673500-83b6d038-d9ed-4724-9e3a-c645bbf5f849.PNG"/>
 <h1 align="center"> Grocery Store </h1>
 <h4 align="center"> Minimal CRUD Template built in React, Express/NodesJs, and MongoDb </h4>
 </div>
@@ -16,7 +18,6 @@
 
 
 ## Features
-
-- RESTful Endpoints built using NodeJS with Express and Mongoose Middleware
-- Full CRUD functionality
-- Input Validation and Error handling 
+🛠️ Full CRUD functionality
+⚙️ RESTful Endpoints built using NodeJS with Express and Mongoose Middleware
+⚠️ Input Validation and Error handling 
