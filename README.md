@@ -18,6 +18,6 @@
 
 
 ## Features
-🛠️ Full CRUD functionality
-⚙️ RESTful Endpoints built using NodeJS with Express and Mongoose Middleware
-⚠️ Input Validation and Error handling 
+ 🛠️ Full CRUD functionality <br/>
+ ⚙️ RESTful Endpoints <br/>
+ ⚠️ Client Side Input Validation and Error handling <br/>
