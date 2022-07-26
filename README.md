@@ -9,7 +9,7 @@
 
 </br>
 </br>
-<div align="center"><a align="center" href="https://nicholas-zarate.github.io/grocery-store/"> live demo </a> </div>
+<!--- <div align="center"><a align="center" href="https://nicholas-zarate.github.io/grocery-store/"> live demo </a> </div> --->
 </br>
 </br>
 
